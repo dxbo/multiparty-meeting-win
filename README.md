@@ -1,4 +1,7 @@
 # multiparty-meeting-win
+可私有云、局域网部署的轻量级视频会议系统，这个是windows平台编译版本
+
+客户端基于chrome内核的浏览器运行，支持多人视频会议、屏幕共享、文件共享、文字交互等功能
 
 演示地址：https://meeting.linksoon.net:440/
 
